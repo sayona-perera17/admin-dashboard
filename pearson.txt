@@ -1,6 +1,0 @@
-Pearson is the world’s leading learning company, with over 41,000 people in more than 70 countries, helping people of all ages to make progress in their lives through all kinds of learning.
-
-We are Pearson Lanka,  a core part of Pearson's global Learning Technologies team. We build and manage some of the industry leading, cloud based learning platforms that serve millions of students across the world. Over the years, we have built a strong Agile Development team, and we are now looking to expand aggressively over the next 12 months. 
-
-At Pearson, we aim to be the best company to work for in the world - it's part of our philosophy to provide benefits, profit share plans, development opportunities and a culture that beats anywhere else. If you are 'always learning', and have a passion for technology and creativity, send in your resume and join our exciting engineering culture.
-
